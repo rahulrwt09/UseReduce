@@ -10,4 +10,5 @@ export const dicAction = (payload)=>
 });
 export const resetAction= ()=>({
     type:"RESET"
+    
 });
